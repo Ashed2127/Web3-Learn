@@ -37,3 +37,7 @@ npm test
 
 This repo is ideal for beginners exploring cryptographic hashing and blockchain proof concepts.
 
+
+## Auto update 1
+
+This is repeated README addition number 1.
